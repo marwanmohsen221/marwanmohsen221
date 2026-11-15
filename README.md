@@ -1,85 +1,27 @@
-# Hi, I'm Marwan Mohsen 👋
+# Hi, I'm Marwan Mohsen
 
-## 📫 Contact Me
+Computer Science and AI student at Helwan University (expected 2028), building full-stack web apps and currently training in Data Engineering at ITI.
 
-* 📧 Email: [marwanmohsen221@gmail.com](mailto:marwanmohsen221@gmail.com)
-* 🌐 Portfolio: 🔗 https://marwanmohsen-wine.vercel.app/
+## Projects
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [Shadwo](https://github.com/marwanmohsen221/shadwo-showcase) | Bilingual (Arabic/English) e-commerce platform running in production, co-developed with one other developer · [live site](https://shadwo.website) | Next.js, TypeScript, PostgreSQL, Prisma, Redis, Docker |
+| [GAMRA](https://github.com/marwanmohsen221/gamra-showcase) | Storefront redesign and jewelry product features for a handmade accessories brand, built on the Shadwo platform | Next.js, React, TypeScript, Tailwind CSS |
+| [HireSmart](https://github.com/marwanmohsen221/hiresmart-showcase) | Recruitment and interview management system (university team project) | PHP, MySQL, JavaScript, Bootstrap |
+| [CPU Scheduling Simulator](https://github.com/marwanmohsen221/cpu-scheduling-simulator-showcase) | Desktop app comparing Round Robin and SJF scheduling | Java, JavaFX |
 
-### 💻 Web Developer | Data Analysis
+The source code for these projects is private; each link is a showcase with screenshots and an overview.
 
-![Profile Banner](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
+## Skills
 
----
+- **Languages:** Python, Java, JavaScript, TypeScript, PHP, SQL, C
+- **Web:** React, Next.js, Node.js, REST APIs, Tailwind CSS, Bootstrap
+- **Databases:** PostgreSQL, MySQL, Prisma
+- **Data & tools:** Power BI, Tableau, Git, Docker
 
-## 🚀 About Me
+## Contact
 
-* 💻 Web Developer (Frontend & Backend)
-* 📊 Skilled in **Power BI & Data Analysis**
-* 🧠 Strong in **Problem Solving & Critical Thinking**
-* 📈 Interested in **Market Research & Business Insights**
-
-
----
-
-## 🧠 Skills
-
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?\&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?\&logo=MySQL)
-
----
-
-### 🎨 Frontend Development
-
-* HTML
-* CSS
-* JavaScript (Basic)
-
----
-
-### ⚙️ Backend Development
-
-* PHP
-* MySQL
-
----
-
-### 📊 Tools & Technologies
-
-![Power BI](https://img.shields.io/badge/-PowerBI-000?\&logo=Power-BI)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft365-000?\&logo=Microsoft)
-![Linux](https://img.shields.io/badge/-Linux-000?\&logo=Linux)
-
----
-
-### 🧩 Soft Skills
-
-* Problem Solving
-* Critical Thinking
-* Leadership
-* Market Research
-* Design Thinking
-
----
-
-## 📂 Projects
-
-🚧 * check my profile 
-
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: [marwanmohsen221@gmail.com](mailto:marwanmohsen221@gmail.com)
-* 🌐 Portfolio: 🔗 https://marwanmohsen221.netlify.app
-
----
-
-⭐️ *Always learning, building, and improving.*
+- Email: [marwanmohsen221@gmail.com](mailto:marwanmohsen221@gmail.com)
+- LinkedIn: [linkedin.com/in/marwanmohsenn](https://www.linkedin.com/in/marwanmohsenn)
+- Portfolio: [marwanmohsen221.netlify.app](https://marwanmohsen221.netlify.app)
